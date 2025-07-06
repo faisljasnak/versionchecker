@@ -1,10 +1,10 @@
 {
-  "Core Engine": "v0.0.1 • Beta – Live Branch",
-  "Health & Damage": "⚡ Prototyping",
-  "Melee System": "Queued • 🧊 On Ice",
-  "Shooter Module": "Queued • 📜 In Discovery",
-  "UI Framework": "Unscheduled • 🔬 Under R&D",
-  "Post-Processing": "Unscheduled  • 🔬 Under R&D",
-  "Parkour Mechanics": "Unscheduled  • 🔬 Under R&D",
-  "AI Logic": "Unscheduled  • 🔬 Under R&D"
+  "core": "v0.0.1 • Beta – Live Branch",
+  "melee": "Queued • 🧊 On Ice",
+  "shooter": "Queued • 📜 In Discovery",
+  "health": "⚡ Prototyping",
+  "ui": "Unscheduled • 🔬 Under R&D",
+  "post": "Unscheduled  • 🔬 Under R&D",
+  "parkour": "Unscheduled  • 🔬 Under R&D",
+  "ai": "Unscheduled  • 🔬 Under R&D"
 }
